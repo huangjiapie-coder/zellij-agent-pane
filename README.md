@@ -2,6 +2,8 @@
 
 当 Claude Code 启动子 agent（团队模式 `/agents`）时，自动在 zellij 中创建右侧窗格，实时显示 agent 的输出。agent 结束后自动关闭对应窗格。
 
+📖 [English README](README_EN.md)
+
 ---
 
 ## 快速开始 — 一键部署
